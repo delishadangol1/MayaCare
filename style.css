@@ -263,7 +263,7 @@
     position: absolute;
     width: 365px;
     top: 96px;
-    left: 0;
+    left: -10px;
     color: #ffffff;
     text-align: center;
     font-family: var(--body1-light-font-family);
